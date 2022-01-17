@@ -1,6 +1,4 @@
-[
-  {
-    "id": 1,
-    "message": "data from json",
-  },
-]
+{
+  "id": 1,
+  "message": "data from json",
+}
